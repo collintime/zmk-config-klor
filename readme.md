@@ -34,3 +34,6 @@ Polydactyl is the default layout. If you choose one of the other layouts you can
 
 - The encoder on the secondary side doesn't work yet. This is a limitation of ZMK.
 - Need to add the code for the Pixart Paw3204 trackball.
+
+## Test
+test
